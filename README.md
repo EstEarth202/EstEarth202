@@ -1,10 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EstEarth
-================================================================================================================================
-
-🌟 [@HeartStarVerse](https://discord.gg/Gp3fwXVukb) 🌠 CEO & MD
-------------------------------
-
-Head : Heart Star Lab 🔬🧪🥼 VTuber Projects by Low & Save costs💞 Other : 🖥 Minecraft Datapacker 👨‍💻
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" alt="HHP"/> My name is EstEarth </h1>
+<h3 align="center">🌟 [@HeartStarVerse](https://discord.gg/Gp3fwXVukb) 🌠 CEO & MD</h3>
+<p align="center"> Head : Heart Star Lab 🔬🧪🥼 VTuber Projects by Low & Save costs💞 Other : 🖥 Minecraft Datapacker 👨‍💻 </p>
 
 * 🌏  I'm based in Thailand
 * 🧠  I'm learning Vtube Model Live2D Rigging & Minecraft Datapacking
@@ -16,7 +12,11 @@ Head : Heart Star Lab 🔬🧪🥼 VTuber Projects by Low & Save costs💞 Other
   > <img src="https://media.discordapp.net/attachments/851137291623858186/860775345820794911/Heart_Hope_Logo.gif?ex=667bbb02&is=667a6982&hm=217bf296ef237ba9e01dcd97035a05f95d2ebfbe2cbbf6c0507f780978bbc494" width="256" height="256" alt="HHP" />
   - [Hope Popuri](https://www.youtube.com/@Porichan?sub_confirmation=1)
 
-### 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/estearth" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> </picture> </a> <a href="https://www.github.com/EstEarth202" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> <a href="https://www.youtube.com/@EstEarth202?sub_confirmation=1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" /> </picture> </a></p>
+
+---
 
 ### Skills, Languages & Tools
 <p align="left"> 
@@ -45,11 +45,6 @@ Head : Heart Star Lab 🔬🧪🥼 VTuber Projects by Low & Save costs💞 Other
 ### Have used
 
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino" /></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/estearth" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> </picture> </a> <a href="https://www.github.com/EstEarth202" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> <a href="https://www.youtube.com/@EstEarth202?sub_confirmation=1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" /> </picture> </a></p>
 
 ### Badges
 
