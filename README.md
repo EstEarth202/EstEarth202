@@ -1,5 +1,9 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" alt="HHP"/> My name is EstEarth </h1>
-<h3 align="center">🌟 [@HeartStarVerse](https://discord.gg/Gp3fwXVukb) 🌠 CEO & MD</h3>
+<h3 align="center"> 
+  
+🌟 [Heart Star Verse](https://discord.gg/Gp3fwXVukb) 🌠 CEO & MD 
+  
+</h3>
 <p align="center"> Head : Heart Star Lab 🔬🧪🥼 VTuber Projects by Low & Save costs💞 Other : 🖥 Minecraft Datapacker 👨‍💻 </p>
 
 * 🌏  I'm based in Thailand
