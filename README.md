@@ -46,10 +46,10 @@
 
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino" /></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-### Badges
 
+### Badges
 <b>My GitHub Stats</b>
 
-<p align="center"><a href="http://www.github.com/EstEarth202"><img src="https://github-readme-stats.vercel.app/api?username=EstEarth202&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EstEarth202's GitHub stats" /></a><a href="http://www.github.com/EstEarth202"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EstEarth202&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
-
+<a href="http://www.github.com/EstEarth202"><img src="https://github-readme-stats.vercel.app/api?username=EstEarth202&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EstEarth202's GitHub stats" /></a>
+<a href="http://www.github.com/EstEarth202"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EstEarth202&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/EstEarth202"><img src="https://github-readme-activity-graph.vercel.app/graph?username=EstEarth202&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
