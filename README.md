@@ -13,8 +13,8 @@
   - vtuber.in.th
 * ⚡  heartstarverse.in.th & vtuber.in.th (coming soon)
 * 💞  Vtuber Project Manager
-  > <img src="https://media.discordapp.net/attachments/851137291623858186/860775345820794911/Heart_Hope_Logo.gif?ex=667bbb02&is=667a6982&hm=217bf296ef237ba9e01dcd97035a05f95d2ebfbe2cbbf6c0507f780978bbc494" width="256" height="256" alt="HHP" />
-  - [Hope Popuri](https://www.youtube.com/@Porichan?sub_confirmation=1)
+  > <img src="https://raw.githubusercontent.com/HeartStarVerse/HeartStarVerse/main/Heart_Hope_Logo.gif" width="256" height="256" alt="HHP" />
+  - [Hope Popuri](https://www.youtube.com/@Porichan?sub_confirmation=1) - Gen 0
 
 ### Socials
 
